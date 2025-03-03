@@ -59,6 +59,12 @@ pip install -r requirements.txt
 - Select ESP32 Board and upload firmware
 
 ## 🏆 Contributors 
-👤 Alexius Andrianno Alfa R.  👤 Alif Akbar Grafidi  👤 Guruh Putra Nusantara  👤 Muhammad Afifudin Arsyada  👤 Naufal Farras Trikusuma  👤 Talitha Dwi Arini  📌 Supervisor: Agung Setia Budi, S.T., M.T., M.Eng., Ph.D.
+👤 Alexius Andrianno Alfa R.
+👤 Alif Akbar Grafidi
+👤 Guruh Putra Nusantara
+👤 Muhammad Afifudin Arsyada
+👤 Naufal Farras Trikusuma
+👤 Talitha Dwi Arini
+📌 Supervisor: Agung Setia Budi, S.T., M.T., M.Eng., Ph.D.
 
 🚀 **Developed for the Embedded System Course, Universitas Brawijaya.**
