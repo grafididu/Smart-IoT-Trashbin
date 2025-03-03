@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ## 🏆 Contributors 
 👤 Alexius Andrianno Alfa R. 
 👤 Alif Akbar Grafidi 
-👤 Guruh Putra Nusantara 
+👤 Guruh Putra Nusantara  
 👤 Muhammad Afifudin Arsyada 
 👤 Naufal Farras Trikusuma 
 👤 Talitha Dwi Arini 
